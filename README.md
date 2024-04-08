@@ -1,1 +1,1 @@
-# todo-app-nextjs-python
+# Simple Todo app Using Nextjs & Python
